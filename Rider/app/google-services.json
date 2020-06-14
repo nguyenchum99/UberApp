@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "50803647850",
+    "firebase_url": "https://androiduber-39457.firebaseio.com",
+    "project_id": "androiduber-39457",
+    "storage_bucket": "androiduber-39457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50803647850:android:1794c591760a92eebd7113",
+        "android_client_info": {
+          "package_name": "com.example.androiduber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50803647850-411jbhjg7169l96avctukst3b3atq8bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_kswhrP8fyx-qD8e-lA75pCP5f3-AGY"
+        },
+        {
+          "current_key": "AIzaSyAeyCo5ACYXS2GNlJ501GkH40hXgg1n-EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50803647850-411jbhjg7169l96avctukst3b3atq8bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50803647850:android:b628f2b6c89d6b23bd7113",
+        "android_client_info": {
+          "package_name": "com.example.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50803647850-411jbhjg7169l96avctukst3b3atq8bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_kswhrP8fyx-qD8e-lA75pCP5f3-AGY"
+        },
+        {
+          "current_key": "AIzaSyAeyCo5ACYXS2GNlJ501GkH40hXgg1n-EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50803647850-411jbhjg7169l96avctukst3b3atq8bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50803647850:android:636fc7ec1fe62b0fbd7113",
+        "android_client_info": {
+          "package_name": "com.example.rideruber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50803647850-411jbhjg7169l96avctukst3b3atq8bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_kswhrP8fyx-qD8e-lA75pCP5f3-AGY"
+        },
+        {
+          "current_key": "AIzaSyAeyCo5ACYXS2GNlJ501GkH40hXgg1n-EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50803647850-411jbhjg7169l96avctukst3b3atq8bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
